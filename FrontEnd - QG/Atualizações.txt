@@ -1,0 +1,26 @@
+Detalhes do Pedido x
+Criar Pedido x
+Tela Principal x
+Pedido Atendido x --- Opicional
+
+//////////////////////////////////////////////////////
+
+att 1
+
+Detalhes do Pedido -> Quase
+Criar Pedido x
+Tela Principal -> Quase
+Pedido Atendido x --- Opicional
+
+//////////////////////////////////////////////////////
+
+att 2
+
+Detalhes do Pedido -> Falta background-img e seta voltar
+Criar Pedido x
+Tela Principal -> Pronto
+Pedido Atendido x --- Opicional
+
+//////////////////////////////////////////////////////
+
+att 3
